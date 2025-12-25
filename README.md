@@ -4,7 +4,7 @@ here u can see the github link for siddharth-bhati16 link
 
 bhuvan
 
-![Bhuvan](images/Bhuvan.jpg)
+![Bhuvan](images/Bhuvan.JPG)
 
 
 [this is bhuvan prakash github click the link](https://github.com/BL-Bhuvan/Java-fundamentals/edit/Java-Fundamentals/README.md)
